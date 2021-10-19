@@ -40,10 +40,14 @@ We expect to predict rainfall of Udaipur of near future
 
 # References
 
+https://github.com/krishnaik06/ARIMA-And-Seasonal-ARIMA.git
+
+https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/
+
+https://becominghuman.ai/what-is-arima-and-sarima-model-10972b5e13c0
+
 https://github.com/Ashwiniu07/Seasonal-Arima-Rain-Forecast.git
 
-https://github.com/Srijha09/Rain-Water-Prediction.git
 
-https://github.com/imhgchoi/ARIMA-LSTM-hybrid-corrcoef-predict.git
 
 
