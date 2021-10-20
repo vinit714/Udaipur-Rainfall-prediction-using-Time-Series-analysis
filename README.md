@@ -29,11 +29,11 @@ The dataset taken from knoema https://knoema.com/aulvzxc/district-wise-rainfall-
 
 
 
-# Autoregressive Integrated Moving Average (ARIMA) model
+# Seasonal Autoregressive Integrated Moving Average (SARIMA) model
 
-The Autoregressive Integrated Moving Average (ARIMA) method models the next step in the sequence as a linear function of the differenced observations and residual errors at prior time steps.
+Seasonal Autoregressive Integrated Moving Average, SARIMA or Seasonal ARIMA, is an extension of ARIMA that explicitly supports univariate time series data with a seasonal component.
 
-It combines both Autoregression (AR) and Moving Average (MA) models as well as a differencing pre-processing step of the sequence to make the sequence stationary, called integration (I).
+It adds three new hyperparameters to specify the autoregression (AR), differencing (I) and moving average (MA) for the seasonal component of the series, as well as an additional parameter for the period of the seasonality.
 
 # Output
 
@@ -41,7 +41,6 @@ We expect to predict rainfall of Udaipur of near future
 
 # References
 
-https://github.com/krishnaik06/ARIMA-And-Seasonal-ARIMA.git
 
 https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/
 
