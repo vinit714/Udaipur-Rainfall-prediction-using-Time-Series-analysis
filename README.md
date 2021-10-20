@@ -1,5 +1,5 @@
 # Udaipur-Rainfall-prediction-using-Time-Series-analysis
-In this project we see time series analysis Autoregressive Integrated Moving Average (ARIMA) model to predict the rainfall in Udaipur district of Rajasthan, India.
+In this project we see time series analysis Seasonal Autoregressive Integrated Moving Average (SARIMA) model to predict the rainfall in Udaipur district of Rajasthan, India.
 
 # Problem Statement
 This study carried out to Udaipur district of Rajasthan. Udaipur receives maximum rainfall due to the south-west monsoon in monsoon season and in all other seasons rainfall is very low for this area. Hence there is always a wide variation in daily annual rainfall as well as seasonal rainfall.
