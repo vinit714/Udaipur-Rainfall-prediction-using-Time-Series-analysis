@@ -18,10 +18,11 @@ Rainfall data:
 The dataset taken from knoema https://knoema.com/aulvzxc/district-wise-rainfall-data-for-india?regionId=IN-RJ
 
 # Pipeline of the Project
+* Clean the dataset
 * Visualize the time series
 * Stationarize the series
-* Plot charts and find optimal parameters
-* Build the ARIMA model
+* Plot Autocorrelation and Partial Autocorrelation charts and find optimal parameters
+* Build the SARIMA model
 * Make prediction
 
 ![image](https://user-images.githubusercontent.com/52816788/138025365-59498404-c829-4f7d-83e8-dbddd1f0ea49.png)
