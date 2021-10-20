@@ -24,7 +24,8 @@ The dataset taken from knoema https://knoema.com/aulvzxc/district-wise-rainfall-
 * Build the ARIMA model
 * Make prediction
 
-![image](https://user-images.githubusercontent.com/52816788/135426671-55309e40-3394-447d-bb8f-9be43e80d977.png)
+![image](https://user-images.githubusercontent.com/52816788/138025365-59498404-c829-4f7d-83e8-dbddd1f0ea49.png)
+
 
 
 
