@@ -5,7 +5,7 @@ In this project we see time series analysis Autoregressive Integrated Moving Ave
 This study carried out to Udaipur district of Rajasthan. Udaipur receives maximum rainfall due to the south-west monsoon in monsoon season and in all other seasons rainfall is very low for this area. Hence there is always a wide variation in daily annual rainfall as well as seasonal rainfall.
 
 # Objective
-Perform time series analysis Autoregressive Integrated Moving Average (ARIMA) to predict the rainfall.
+Perform time series analysis Seasonal Autoregressive Integrated Moving Average (SARIMA) to predict the rainfall.
 
 # Dataset
 Rainfall data:
