@@ -29,3 +29,12 @@ from statsmodels.tsa.arima_model import ARIMA
 ```python
 from pandas.tseries.offsets import DateOffset
 ```
+
+## Cleaning dataset
+![image](https://user-images.githubusercontent.com/52816788/142578681-c00b27fe-e7e6-41f2-a6a4-2cfdafbba15c.png)
+
+For eg. here as you can see in the above image the columns with the index 0, 1, 2 and 3 data were not usefull for our analysis so we used the following syntax to remove it:
+### For columns:
+```python
+df.drop(df.columns[[#column index numbers seperated by commas#]], axis = 1, inplace = True)
+```
