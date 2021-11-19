@@ -63,7 +63,9 @@ To calculate the p value we make PACF graph and the point where the sudden shutd
 
 For eg. look at the above figure after 2 points sudden decrease happens so p value will be 2.
 <br>
+
 To d value is equal to number of time differencing has been done.
+
 <br>
 To find the q value we see the ACF graph and select any value between 0 and the point where graph looks like it is decreasing exponentially all works fine.
 
