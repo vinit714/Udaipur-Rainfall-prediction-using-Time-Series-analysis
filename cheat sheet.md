@@ -70,5 +70,6 @@ To d value is equal to number of time differencing has been done.
 To find the q value we see the ACF graph and select any value between 0 and the point where graph looks like it is decreasing exponentially all works fine.
 
 ![image](https://user-images.githubusercontent.com/52816788/142609319-12c99f67-079b-45a5-aa58-f382c321c23b.png)
+
 for eg. lets see the above figure as you can see we can say graph is decreasing exponentially till 6th point so the q value can either be 0, 1, 2, 3, 4, 5 or 6.
 
