@@ -29,12 +29,15 @@ from statsmodels.tsa.arima_model import ARIMA
 ```python
 from pandas.tseries.offsets import DateOffset
 ```
+<br>
+<br>
 
 ## Reading dataset
 ```python
 df=pd.read_csv('path to your dataset.csv')
 ```
-
+<br>
+<br>
 
 ## Cleaning dataset
 ![image](https://user-images.githubusercontent.com/52816788/142578681-c00b27fe-e7e6-41f2-a6a4-2cfdafbba15c.png)
